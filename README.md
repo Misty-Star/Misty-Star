@@ -112,7 +112,7 @@ From prompting better models to designing better agent loops.
 |------|------|------|------|
 | **智卷云** | 基于LLM的AI智能组卷平台 | NestJS + Keycloak + RAG + ReAct Agent + Puppeteer | ✅ 已完成 |
 | **Obsidian-Ultimate-Publisher** | Obsidian 文章发布插件 | JavaScript + TypeScript | 🔥 进行中 |
-| **grok-it-mcp** | 链接Grok订阅能力的Agent Plugin | Codex + Claude Code + Skills + MCP | ✅ 已完成 |
+| **grok-it-mcp** | 链接Grok订阅能力的Agent Plugin | Codex + Claude Code + Skills + MCP | 🔥 进行中 |
 | **AI Coding Workflow** | 设计更好的人类×Agent协作闭环 | Claude Code + Codex + MCP + Agent Loop | 🔥 持续进化 |
 
 ---
